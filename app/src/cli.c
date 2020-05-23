@@ -26,7 +26,7 @@ scrcpy_print_usage(const char *arg0) {
         "        Make scrcpy window always on top (above other windows).\n"
         "\n"
         "    --ext-display\n"
-        "        Make scrcpy window ext display (above other windows).\n"
+        "        Make scrcpy send keyevent to ext display (above other windows).\n"
         "\n"
         "    -b, --bit-rate value\n"
         "        Encode the video at the given bit-rate, expressed in bits/s.\n"
